@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_200">#9575cd</color>
+    <color name="primary_500">#673ab7</color>
+    <color name="primary_700">#512da8</color>
+
+    <color name="secundary">#ef9a9a</color>
+    <color name="secundary_700">#d32f2f</color>
+    <color name="secundary_900">#b71c1c</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
